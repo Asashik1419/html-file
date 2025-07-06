@@ -1,0 +1,17 @@
+.as{
+    color: tomato;
+    padding: 4px;
+    margin-left: 50px;
+}
+
+.img {
+    height: 700px;
+    width: 600px;
+    position: static;
+
+}
+
+.div{
+    margin: 5px;
+    
+}
